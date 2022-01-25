@@ -3,6 +3,9 @@
 ## Implementation
 I already know that is not completely BDD, but is using the gherkin syntax for this test.
 
+## Prerequisites
+1. Java JDK "1.8.0_301"
+2. Maven installed
 
 ## How to run
 1. Go inside the folder "myproject" (at root level of pom.xml)
